@@ -5,3 +5,5 @@
 [Task 3 link](https://lucid.app/lucidchart/2ca8d09a-4b34-49e5-a8e3-03c78f19d8fe/edit?viewport_loc=-375%2C123%2C8129%2C3625%2C0_0&invitationId=inv_b708b9fc-9fb7-4900-b9e0-64871f20c5f4)
 
 [Task 4 link](https://lucid.app/lucidchart/feba15b4-76b6-47b1-bd38-aace5833ac36/edit?viewport_loc=441%2C-42%2C3848%2C1716%2C0_0&invitationId=inv_2e75ce01-fcd4-483e-9c6e-3aa8e8c131c6)
+
+[Task 8 link](https://lucid.app/lucidchart/c8cbaad6-76b0-4800-929a-89038d463efd/edit?viewport_loc=116%2C492%2C1675%2C747%2C0_0&invitationId=inv_d9bd8d0f-1e31-47f0-9649-729a1f31659b)
